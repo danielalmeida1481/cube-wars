@@ -7,4 +7,4 @@ Open it in Visual Studio.<br/>
 Debug it and enjoy!
 
 ## Information
-Sorry for the name (M11_ProjectGame) of the project.
+Sorry for the name (M11_ProjectGame) of the project files.
